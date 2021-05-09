@@ -1,0 +1,5 @@
+2021-05-08 22:06:47 ERROR EPS_Logger - The number is odd: 1
+2021-05-08 22:06:47 ERROR EPS_Logger - The number is odd: 3
+2021-05-08 22:06:47 ERROR EPS_Logger - The number is odd: 5
+2021-05-08 22:06:47 ERROR EPS_Logger - The number is odd: 7
+2021-05-08 22:06:47 ERROR EPS_Logger - The number is odd: 9

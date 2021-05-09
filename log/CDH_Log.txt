@@ -1,0 +1,5 @@
+2021-05-08 22:06:47 DEBUG CDH_Logger - The number is even: 0
+2021-05-08 22:06:47 DEBUG CDH_Logger - The number is even: 2
+2021-05-08 22:06:47 DEBUG CDH_Logger - The number is even: 4
+2021-05-08 22:06:47 DEBUG CDH_Logger - The number is even: 6
+2021-05-08 22:06:47 DEBUG CDH_Logger - The number is even: 8
